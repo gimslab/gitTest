@@ -7,7 +7,7 @@ public class Main {
 	 */
 	public static void main(String[] args) {
 		System.out.println("hi");
-		System.out.println("master");
+		System.out.println("br1");
 		System.out.println("hi2223333337443");
 		System.out.println("br1");
 	}
